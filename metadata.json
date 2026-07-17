@@ -1,0 +1,6 @@
+{
+  "name": "Personality Development Flashcards",
+  "description": "A gamified personality development platform featuring daily flashcards, streak systems, milestones, leaderboards, unlockable badges, offline sync, custom AI coaching, and premium subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
